@@ -12078,11 +12078,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\S533726\\Documents\\44663\\TejaswiniStory\\src\\Web\\Web.csproj",
+      "projectUniqueName": "C:\\Users\\S533726\\Desktop\\TejaswiniStory\\src\\Web\\Web.csproj",
       "projectName": "Web",
-      "projectPath": "C:\\Users\\S533726\\Documents\\44663\\TejaswiniStory\\src\\Web\\Web.csproj",
+      "projectPath": "C:\\Users\\S533726\\Desktop\\TejaswiniStory\\src\\Web\\Web.csproj",
       "packagesPath": "C:\\Users\\S533726\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\S533726\\Documents\\44663\\TejaswiniStory\\src\\Web\\obj\\",
+      "outputPath": "C:\\Users\\S533726\\Desktop\\TejaswiniStory\\src\\Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
